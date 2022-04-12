@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GLYNKNIGHT
+- 👋 Hi, I’m Glyn 
 - 👀 I’m interested in learning.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to stop, collaborate and listen.
