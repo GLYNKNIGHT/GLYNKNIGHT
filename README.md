@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Glyn 
 - 👀 I’m interested in learning.
-- 🌱 I’m currently learning.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, NodeJS, UI/UX. 
 - 💞️ I’m looking to stop, collaborate and listen.
 
 <!---
