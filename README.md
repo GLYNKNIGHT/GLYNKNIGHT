@@ -1,5 +1,6 @@
 Hi, I’m Glyn 
-Thank you for visiting my repo
+
+Thank you for visiting my profile.
 I started my journey in to development with the School of Code in May 2022. I have learnt a huge amount on my journey so far including;
 
 ![HTML](https://live.staticflickr.com/65535/52286403930_bedf533bf1_s.jpg)
