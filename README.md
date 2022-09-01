@@ -14,10 +14,12 @@ I started my journey in to development with the School of Code in May 2022. I ha
 
 The projects on here are sme of the work I did during the boocamp and some small personal projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLYNKNIGHT&layout=compact&theme=dark)](https://github.com/GLYNKNIGHT/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLYNKNIGHT&layout=compact&theme=dark&hide_border=true)](https://github.com/GLYNKNIGHT/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GLYNKNIGHT&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GLYNKNIGHT&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!---
 GLYNKNIGHT/GLYNKNIGHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GLYNKNGIHT&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
