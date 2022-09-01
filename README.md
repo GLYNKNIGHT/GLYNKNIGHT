@@ -1,3 +1,5 @@
+
+
 Hi, I’m Glyn 
 
 Thank you for visiting my profile.
@@ -10,10 +12,9 @@ I started my journey in to development with the School of Code in May 2022. I ha
 ![PostgreSQL](https://live.staticflickr.com/65535/52284936702_3d1d0d3fe0_s.jpg)
 ![React](https://live.staticflickr.com/65535/52285921648_8253df6599_s.jpg)
 
+The projects on here are sme of the work I did during the boocamp and some small personal projects
 
-I have also gained experience in working in an agile team.  
-
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GLYNKNIGHT)](https://git.io/streak-stats)
 <!---
 GLYNKNIGHT/GLYNKNIGHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
