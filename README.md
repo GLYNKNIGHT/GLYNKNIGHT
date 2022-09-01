@@ -21,5 +21,3 @@ The projects on here are sme of the work I did during the boocamp and some small
 GLYNKNIGHT/GLYNKNIGHT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GLYNKNGIHT&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
