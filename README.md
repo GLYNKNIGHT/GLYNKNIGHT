@@ -1,7 +1,7 @@
 <h1>Glyn Knight</h1> 
 
 Thank you for visiting my profile. After spending 9 years in the miliary and then 12 years in health and fitness
-I started my journey in to development with the School of Code in May 2022. I have learnt a huge amount on my journey so far adn extied to see where this new found adventure will take me.
+I started my journey in to development with the School of Code in May 2022. I have learnt a huge amount on my journey so far and excited to see where this new found adventure will take me.
 
 <h3 align="left">Languages and Tools:</h3>
 
