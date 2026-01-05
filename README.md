@@ -1,7 +1,7 @@
 <h1>Glyn Knight</h1> 
 
-Thank you for visiting my profile. After spending 9 years in the miliary and then 12 years in health and fitness
-I started my journey in to development with the School of Code in May 2022. I have learnt a huge amount on my journey so far and excited to see where this new found adventure will take me.
+Thank you for visiting my profile. After spending 9 years in the military and then 12 years in health and fitness
+I started my journey into development with the School of Code in May 2022. I have learnt a huge amount on my journey so far, and I am excited to see where this newfound adventure will take me.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -35,7 +35,7 @@ I started my journey in to development with the School of Code in May 2022. I ha
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GLYNKNIGHT&layout=compact)](https://github.com/GLYNKNIGHT/github-readme-stats)
 
-The projects on here are a combination of team and indivdual projects that I worked on during the bootcamp and some small personal projects that I have been working on since. 
+The projects on here are a combination of team and individual projects that I worked on during the bootcamp and some small personal projects that I have been working on since. 
 
 
 
